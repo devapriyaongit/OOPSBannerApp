@@ -1,7 +1,7 @@
 /**
  * UC1 - Print OOPS to Console
  *
- * @author Mridula
+ * @author Devapriya
  * @version 1.0
  */
 public class OOPSBannerApp {
