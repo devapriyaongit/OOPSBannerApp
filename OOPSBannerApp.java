@@ -1,13 +1,19 @@
 /**
- * UC1 - Print OOPS to Console
+ * UC2 - Print OOPS in Banner Format
  *
-HEAD
- * @author Devapriyas
- * @version 1.0
+ * @author Devapriya
+ * @version 2.0
  */
 public class OOPSBannerApp {
 
     public static void main(String[] args) {
-        System.out.println("OOPS");
+        System.out.println(" *****   *****   *****   ***** ");
+        System.out.println("*     * *     * *     * *      ");
+        System.out.println("*     * *     * *     * *      ");
+        System.out.println("*     * *     * * * *    ***** ");
+        System.out.println("*     * *     * *             *");
+        System.out.println("*     * *     * *             *");
+        System.out.println(" *****   *****  *        ***** ");
+
     }
 }
